@@ -1,0 +1,2 @@
+recursive-include cinterface/include *.h
+prune cinterface.egg-info
